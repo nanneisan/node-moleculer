@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Coverage directory
+coverage
+
+# dotenv environment variables file
+.env
